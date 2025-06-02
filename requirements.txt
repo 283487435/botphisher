@@ -1,5 +1,4 @@
 py-cord
-json
 requests
 datetime
 calendar
