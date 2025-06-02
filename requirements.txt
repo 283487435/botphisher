@@ -1,5 +1,4 @@
 py-cord
 requests
 datetime
-calendar
 playwright
